@@ -3,8 +3,7 @@
 banner:
   title: "The Ultimate Starter Template You Need To Start Your Astro Project"
   content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
-  "<iframe id='iframe-widget' src='https://changenow.io/embeds/exchange-widget/v2/widget.html?FAQ=true&amount=0.1&amountFiat=1500&backgroundColor=FFFFFF&darkMode=false&from=btc&fromFiat=eur&horizontal=false&isFiat&lang=en-US&link_id=537f0c2ee20bbe&locales=true&logo=false&primaryColor=00C26F&to=eth&toFiat=eth&toTheMoon=true' style="height: 356px; width: 100%; border: none"></iframe>
-    <script defer type='text/javascript' src='https://changenow.io/embeds/exchange-widget/v2/stepper-connector.js'></script>"
+  image: "/images/banner.png"
   button:
     enable: true
     label: "Get Started For Free"
